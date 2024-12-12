@@ -30,7 +30,7 @@ by Miguel Avila
 /* want to show the URL Bar    */
 /*─────────────────────────────*/
 
-.urlbarView {
+#urlbar {
   display: none !important;
 }
 
